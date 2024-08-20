@@ -43,8 +43,7 @@ public class CarneLeopardoSistema {
 				return 0;
 			}
 		}
-		tributos[iTributo++
-		         ] = auxTributo;
+		tributos[iTributo++] = auxTributo;
 		return codigo;
 	}
 	
@@ -74,4 +73,6 @@ public class CarneLeopardoSistema {
 		}
 		return false;
 	}
+
+	
 }
